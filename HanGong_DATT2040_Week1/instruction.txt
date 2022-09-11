@@ -1,0 +1,1 @@
+Drag the mouse to resize two grids.
